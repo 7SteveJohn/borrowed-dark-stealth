@@ -2,7 +2,6 @@
 
 [![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 [![rank](https://make.fun/badge/best-stealth-game-20261121-1759/7SteveJohn/borrowed-dark-stealth/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
-[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/7SteveJohn/borrowed-dark-stealth/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 A top-down stealth game for the [make.fun "Make the best stealth game"](https://make.fun/bounty/best-stealth-game-20261121-1759) bounty. In a brightly lit greenhouse prison, you are the escaped prisoner — and the only cover is darkness you have to steal. Peel the shadow off a giant palm, drag it where you need it, and slip past the guards' amber vision cones to reach the glowing exit, unseen.
 
